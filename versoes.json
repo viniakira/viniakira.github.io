@@ -1,19 +1,19 @@
 {
     "versoes": [
         {
-            "titulo": "WK_3",
+            "title": "WK_3",
             "desc": "Nova funcionalidade 3",
             "ipa": "iOS_3.ipa",
             "apk": "Android_3.apk"
         },
         {
-            "titulo": "WK_2",
+            "title": "WK_2",
             "desc": "Nova funcionalidade 2",
             "ipa": "iOS_2.ipa",
             "apk": "Android_2.apk"
         },
         {
-            "titulo": "WK_1",
+            "title": "WK_1",
             "desc": "Nova funcionalidade 1",
             "ipa": "iOS_1.ipa",
             "apk": "Android_1.apk"
