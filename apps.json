@@ -1,32 +1,14 @@
 {
     "apps": [
         {
-            "nome": "WK",
-            "logo": "https://cdn2.iconfinder.com/data/icons/black-white-social-media/64/social_media_logo_snapchat-128.png",
-            "versoes": [
-                {
-                    "nome": "WK_3",
-                    "link": "path3.apk"
-                },
-                {
-                    "nome": "WK_3",
-                    "link": "path2.apk"
-                }
-            ]
+            "titulo": "WK",
+            "desc": "Aplicativo Snapchat",
+            "img": "https://cdn2.iconfinder.com/data/icons/black-white-social-media/64/social_media_logo_snapchat-128.png"
         },
         {
-            "nome": "BBM",
-            "logo": "https://image.flaticon.com/icons/png/128/20/20673.png",
-            "versoes": [
-                {
-                    "nome": "BBM_v3",
-                    "link": "path3.apk"
-                },
-                {
-                    "nome": "BBM_v2",
-                    "link": "path2.apk"
-                }
-            ]
+            "titulo": "BBM",
+            "desc": "Aplicativo Facebook",
+            "img": "https://image.flaticon.com/icons/png/128/20/20673.png"
         }
     ]
 }
